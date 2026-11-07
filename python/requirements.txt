@@ -1,0 +1,5 @@
+requests
+httpx
+playwright
+selenium>=4.52
+scrapy
